@@ -1,0 +1,38 @@
+#navbar{
+    flex-direction: column;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    height: 30vh;
+}
+
+#logo img{
+    position: absolute;
+    top: 43px;
+    right: 45vw;
+}
+
+#navbar input{
+    position: absolute;
+    right: 31vw;
+    top: 28vh;
+}
+
+#search{
+    right: 31vw;
+    top: 28.5vh;
+}
+
+#navbar ul{
+    top: 17vh;
+    left: 4vw;
+    width: 100vw;
+    overflow: scroll;
+}
+
+#navbar li{
+    margin: 0px 29px;
+}
+
+#mainbox{
+    top: 36vh;
+}
